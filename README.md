@@ -17,9 +17,21 @@ To install the required libraries, run the following command:
 pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn scipy
 ```
 
-## Dataset
+##Dataset
 
-The dataset used in this project consists of transactions labeled as fraudulent or non-fraudulent. It includes features such as transaction amount, location details, merchant information, and more. The dataset is split into training and test sets for model evaluation.
+The dataset used for this project can be downloaded from the following sources:
+
+FraudTrain.csv: This CSV file contains training data with transaction details.
+
+FraudTest.csv: This CSV file contains test data for evaluating the model.
+
+##Instructions to Download the Dataset
+
+To download the dataset for this project, follow these steps:
+
+Click [here](https://www.kaggle.com/datasets/kartik2112/fraud-detection) to download the training and test dataset (FraudTrain.csv & FraudTest.csv).
+Save the downloaded CSV file to your local machine.
+
 
 ## Exploratory Data Analysis (EDA)
 
