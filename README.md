@@ -17,7 +17,7 @@ To install the required libraries, run the following command:
 pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn scipy
 ```
 
-##Dataset
+## Dataset
 
 The dataset used for this project can be downloaded from the following sources:
 
@@ -25,7 +25,7 @@ FraudTrain.csv: This CSV file contains training data with transaction details.
 
 FraudTest.csv: This CSV file contains test data for evaluating the model.
 
-##Instructions to Download the Dataset
+## Instructions to Download the Dataset
 
 To download the dataset for this project, follow these steps:
 
