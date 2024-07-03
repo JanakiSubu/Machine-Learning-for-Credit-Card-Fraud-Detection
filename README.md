@@ -58,6 +58,13 @@ Save the downloaded CSV file to your local machine.
 - Achieved an accuracy of 98% with a recall rate of 78% for detecting fraudulent transactions.
 - The model's ROC AUC score of 0.88 indicates its ability to discriminate between fraudulent and non-fraudulent transactions effectively.
 
+- ![WhatsApp Image 2024-07-03 at 17 34 34_5d73b050](https://github.com/JanakiSubu/Machine-Learning-for-Credit-Card-Fraud-Detection/assets/138156125/bdde7963-6560-4a50-aba5-1f4c037c5f33)
+- ![WhatsApp Image 2024-07-03 at 17 34 51_5d60f47b](https://github.com/JanakiSubu/Machine-Learning-for-Credit-Card-Fraud-Detection/assets/138156125/7a8829d7-6d08-421f-a333-ab9e8f690bff)
+- ![WhatsApp Image 2024-07-03 at 17 35 51_a877ef36](https://github.com/JanakiSubu/Machine-Learning-for-Credit-Card-Fraud-Detection/assets/138156125/8d8caf63-4525-4f7d-85a8-8b075adc07e0)
+
+
+
+
 ## Usage
 
 1. Clone the repository:
